@@ -8,10 +8,10 @@
   - [Unity Shaders](https://github.com/adrian-miasik/unity-shaders) 🧙✨
   - [Unity Cubic Bezier Curve](https://github.com/adrian-miasik/unity-cubic-bezier-curve) 🏹
   - [Stream Deck Plugins - Dota 2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2) ⚔️
-- 🛠️ I’m currently...
+- 🛠️ I’m currently:
   - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
   - Playing around with a secret game prototype... 🤫
-- 📚 I’m currently learning about...
+- 📚 I’m currently learning about:
   - Stream Deck Extensions
     - BarRaider's [streamdeck-tools](https://github.com/BarRaider/streamdeck-tools) SDK
     - antonpup's [Dota 2 Game State Integration](https://github.com/antonpup/Dota2GSI) interface
@@ -25,4 +25,8 @@
 - ⛑ I’m looking to collaborate on: 
   - Game development projects
   - Open source initiatives  
-- 📫 How to reach me: https://www.adrian-miasik.com/career.html
+- 💖 How to support me:
+  - Share my work on socials 📣
+  - [GitHub Sponsors](https://github.com/sponsors/adrian-miasik) 💸
+- 📫 How to reach me: 
+  - https://www.adrian-miasik.com/career.html
