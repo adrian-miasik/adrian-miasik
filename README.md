@@ -29,3 +29,7 @@
 - 💖 How to support me:
   - Share my work on socials 📣
   - [GitHub Sponsors](https://github.com/sponsors/adrian-miasik) 💸
+
+---
+
+Check out my releases page to see my latest work: https://www.adrian-miasik.com/releases.html
