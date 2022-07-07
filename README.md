@@ -23,6 +23,7 @@
     - Shapes
     - Kinematic Character Controller
     - Translucent Image Blur
+  - React Native
 - ⛑ I’m looking to collaborate on: 
   - Game development projects
   - Open source initiatives  
