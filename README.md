@@ -11,6 +11,7 @@
 - 🛠️ I’m currently:
   - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
   - Playing around with a secret game prototype... 🤫
+  - Stuck in e-mail hell 🔥
 - 📚 I’m currently learning about:
   - Stream Deck Extensions
     - BarRaider's [streamdeck-tools](https://github.com/BarRaider/streamdeck-tools) SDK
