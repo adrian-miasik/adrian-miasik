@@ -29,5 +29,3 @@
 - 💖 How to support me:
   - Share my work on socials 📣
   - [GitHub Sponsors](https://github.com/sponsors/adrian-miasik) 💸
-- 📫 How to reach me: 
-  - https://www.adrian-miasik.com/career.html
