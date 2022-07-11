@@ -1,5 +1,5 @@
 # Hey, I'm Adrian 👋
-- I'm currently <span style="color:green;"><strong>open for work!</strong></span>
+- I'm currently 🟢 <span style="color:green;"><strong>open for work!</strong></span>
 - Contact me via email: <code>git-readme@adrian-miasik.com</code>
 
 ---
