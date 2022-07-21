@@ -1,4 +1,4 @@
-# Hey, I'm Adrian 👋
+# Hey, I'm Adrian <img style="width: 38px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 - I'm currently 🟢 <span style="color:green;"><strong>open for work!</strong></span>
 - Contact me via email: <code>git-readme@adrian-miasik.com</code>
 
