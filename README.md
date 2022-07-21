@@ -36,6 +36,4 @@
 
 Check out my releases page to see my latest work: https://www.adrian-miasik.com/releases.html
 
----
-
 ![](https://komarev.com/ghpvc/?username=adrian-miasik&color=lightgrey&label=README.md+Profile+Views)
