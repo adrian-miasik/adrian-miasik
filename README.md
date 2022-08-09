@@ -14,6 +14,7 @@
   - Stuck in e-mail hell 🔥
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
+  - Blender
   - Stream Deck Extensions
     - BarRaider's [streamdeck-tools](https://github.com/BarRaider/streamdeck-tools) SDK
     - antonpup's [Dota 2 Game State Integration](https://github.com/antonpup/Dota2GSI) interface
@@ -24,7 +25,6 @@
     - Shapes
     - Kinematic Character Controller
     - Translucent Image Blur
-  - React Native
 - ⛑ I’m looking to collaborate on: 
   - Game development projects
   - Open source initiatives  
