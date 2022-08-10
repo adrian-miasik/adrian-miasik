@@ -14,11 +14,11 @@
   - Stuck in e-mail hell 🔥
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
-  - Blender
+  - Blender (3D Modeling)
   - Stream Deck Extensions
     - BarRaider's [streamdeck-tools](https://github.com/BarRaider/streamdeck-tools) SDK
     - antonpup's [Dota 2 Game State Integration](https://github.com/antonpup/Dota2GSI) interface
-  - Affinity Designer (New editor suite) 
+  - Affinity Designer (Design & UI/UX) 
     - Making and creating assets for [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)
   - Unity Assets & Plugins
     - Quantum Console
