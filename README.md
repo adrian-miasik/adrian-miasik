@@ -1,6 +1,6 @@
 # Hey, I'm Adrian <img style="width: 38px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 - I'm currently 🟢 <span style="color:green;"><strong>open for work!</strong></span>
-- Contact me via email: <code>git-readme@adrian-miasik.com</code>
+- Got a question? Wanna connect? Send your messages to <code>git-readme@adrian-miasik.com</code>
 
 ---
 - 🌱 I like to release open-source projects:
