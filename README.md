@@ -15,6 +15,7 @@
   - Stuck in e-mail hell 🔥
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
+  - [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
   - Blender (3D Modeling)
   - Stream Deck Extensions
     - BarRaider's [streamdeck-tools](https://github.com/BarRaider/streamdeck-tools) SDK
