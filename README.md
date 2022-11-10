@@ -10,6 +10,7 @@
   - [Stream Deck Plugins - Dota 2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2) ⚔️
 - 🛠️ I’m currently working on:
   - Creating a Steam release for Unity Pomodoro
+  - Working on Steam integration for Unity Pomodoro
   - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
   - Playing around with a secret game prototype... 🤫 (Codenamed: Project Logistics)
   - Stuck in e-mail hell 🔥
