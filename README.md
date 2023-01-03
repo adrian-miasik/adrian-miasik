@@ -15,6 +15,13 @@
   - Stuck in e-mail hell 🔥
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
+  - Unity Assets & Plugins
+    - Ultimate Screenshot Creator (Unity Thumbnailer)
+    - True Shadow (Unity Thumbnailer)
+    - Quantum Console (Project Logistics)
+    - Shapes (Samples)
+    - Kinematic Character Controller (Project Logistics)
+    - Translucent Image Blur (Unity Pomodoro)
   - [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) & [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
   - Blender (3D Modeling)
   - Stream Deck Extensions
@@ -22,11 +29,6 @@
     - antonpup's [Dota 2 Game State Integration](https://github.com/antonpup/Dota2GSI) interface
   - Affinity Designer (Design & UI/UX) 
     - Making and creating assets for [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)
-  - Unity Assets & Plugins
-    - Quantum Console
-    - Shapes
-    - Kinematic Character Controller
-    - Translucent Image Blur
 - ⛑ I’m looking to collaborate on: 
   - Game development projects
   - Open source initiatives  
