@@ -15,12 +15,12 @@
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
   - Unity Assets & Plugins
-    - Ultimate Screenshot Creator (Unity Thumbnailer)
-    - True Shadow (Unity Thumbnailer)
-    - Quantum Console (Project Logistics)
-    - Shapes (Samples)
-    - Kinematic Character Controller (Project Logistics)
-    - Translucent Image Blur (Unity Pomodoro)
+    - Ultimate Screenshot Creator
+    - True Shadow
+    - Quantum Console
+    - Shapes
+    - Kinematic Character Controller
+    - Translucent Image Blur
   - [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) & [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
   - Blender (3D Modeling)
   - Stream Deck Extensions
