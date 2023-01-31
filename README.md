@@ -21,7 +21,9 @@
     - Shapes
     - Kinematic Character Controller
     - Translucent Image Blur
-  - [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) & [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
+  - Steam Integration
+    - [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) 
+    - [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
   - Blender (3D Modeling)
   - Stream Deck Extensions
     - BarRaider's [streamdeck-tools](https://github.com/BarRaider/streamdeck-tools) SDK
