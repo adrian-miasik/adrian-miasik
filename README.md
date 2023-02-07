@@ -14,6 +14,7 @@
   - Stuck in e-mail hell 🔥
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
+  - Android Keystores
   - Unity Assets & Plugins
     - Ultimate Screenshot Creator
     - True Shadow
