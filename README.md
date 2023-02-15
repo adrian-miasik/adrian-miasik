@@ -11,7 +11,6 @@
   - Working on a new project codenamed Unity Thumbnailer 🤫
   - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
   - Playing around with a secret game prototype... 🤫 (Codenamed: Project Logistics)
-  - Stuck in e-mail hell 🔥
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
   - Android Keystores
