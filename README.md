@@ -14,6 +14,7 @@
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
   - Android Keystores
+  - ChatGPT and the new Bing
   - Unity Assets & Plugins
     - Ultimate Screenshot Creator
     - True Shadow
