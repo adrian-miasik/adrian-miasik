@@ -13,6 +13,7 @@
   - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
+  - Unity Addressables
   - Reading 'Hands-On-Unity Game Development 2022'
   - Android Keystores
   - ChatGPT and the new Bing
