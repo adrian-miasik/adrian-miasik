@@ -15,7 +15,6 @@
 - 📚 I’m currently learning about:
   - Unity Addressables
   - Reading 'Hands-On-Unity Game Development 2022'
-  - Android Keystores
   - ChatGPT and the new Bing
   - Unity Assets & Plugins
     - Ultimate Screenshot Creator
