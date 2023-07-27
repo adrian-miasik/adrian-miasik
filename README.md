@@ -8,9 +8,8 @@
   - [Unity Cubic Bezier Curve](https://github.com/adrian-miasik/unity-cubic-bezier-curve) 🏹
   - [Stream Deck Plugins - Dota 2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2) ⚔️
 - 🛠️ I’m currently working on:
-  - 🤫 Tinkering with a new software project (Codenamed: Project Inventory)
   - 🤫 Playing around with a secret game prototype (Codenamed: Project Logistics)
-  - 🤫 ~~Working on a new software project (Codenamed: Unity Thumbnailer)~~
+  - 🤫 Working on a new software project (Codenamed: Unity Thumbnailer)
   - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
   - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
 - 📚 I’m currently learning about:
