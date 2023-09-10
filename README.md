@@ -7,26 +7,27 @@
   - [Unity Shaders](https://github.com/adrian-miasik/unity-shaders) 🧙✨
   - [Unity Cubic Bezier Curve](https://github.com/adrian-miasik/unity-cubic-bezier-curve) 🏹
   - [Stream Deck Plugins - Dota 2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2) ⚔️
-- 🛠️ I’m currently working on:
+- 🛠️ Currently I'm...
   - 🤫 Playing around with a secret game prototype (Codenamed: Project Logistics)
-  - 🤫 Working on a new software project (Codenamed: Unity Thumbnailer)
+  - 🤫 Working on a new software project (Codenamed: PI)
   - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
-  - Implementing light/dark mode to [my website](https://www.adrian-miasik.com/)! 💡
+    - Planning a new update soon...
+  - Maintaining Unity Pomodoro
+    - Also planning on a new update on this soon...
+  - Maintaining adrian-miasik.com
+  - Prototyping an idea: Unity Thumbnailer
 - 📚 I’m currently learning about:
-  - Unity Addressables
   - Serializing and Deserializing using BinaryFormatter and/or Json
-  - ChatGPT and the new Bing
+  - ChatGPT
   - Unity Assets & Plugins
     - Ultimate Screenshot Creator
     - True Shadow
     - Quantum Console
     - Shapes
-    - Kinematic Character Controller
     - Translucent Image Blur
   - Steam Integration
     - [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) 
     - [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
-  - Blender (3D Modeling)
   - Stream Deck Extensions
     - BarRaider's [streamdeck-tools](https://github.com/BarRaider/streamdeck-tools) SDK
     - antonpup's [Dota 2 Game State Integration](https://github.com/antonpup/Dota2GSI) interface
