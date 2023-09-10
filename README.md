@@ -9,7 +9,7 @@
   - [Stream Deck Plugins - Dota 2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2) ⚔️
 - 🛠️ Currently I'm...
   - Working on a new software project (Codenamed: PI) 🤫 
-  - Playing around with a secret game prototype (Codenamed: Project Logistics) 🤫 
+  - Playing around with a secret game prototype (Codenamed: PL) 🤫 
   - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
     - Planning a new update soon...
   - Maintaining Unity Pomodoro
