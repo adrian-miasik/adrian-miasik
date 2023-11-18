@@ -9,11 +9,10 @@
   - [Stream Deck Plugins - Dota 2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2) ⚔️
 - 🛠️ Currently I'm...
   - Working on a new software project (Codenamed: PI) 🤫 
-  - Playing around with a secret game prototype (Codenamed: PL) 🤫 
-  - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
-    - Planning a new update soon...
+  - Playing around with a secret game prototype (Codenamed: PL) 🤫
   - Maintaining Unity Pomodoro
-    - Also planning on a new update on this soon...
+    - New update is out now! v2.6.0: https://github.com/adrian-miasik/unity-pomodoro/releases/tag/v2.6.0
+  - Exploring Stream Deck extensions (See [SDP-D2](https://github.com/adrian-miasik/stream-deck-plugins-dota-2)) 🔭
   - Maintaining adrian-miasik.com
   - Prototyping an idea: Unity Thumbnailer
 - 📚 I’m currently learning about:
